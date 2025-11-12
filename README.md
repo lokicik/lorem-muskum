@@ -1,6 +1,6 @@
 # Lorem Muskum 🚀
 
-[![Tests](https://github.com/lokicik/lorem-muskum/actions/workflows/test.yml/badge.svg)](https://github.com/yourusername/lorem-muskum/actions/workflows/test.yml)
+[![Tests](https://github.com/lokicik/lorem-muskum/actions/workflows/test.yml/badge.svg)](https://github.com/lokicik/lorem-muskum/actions/workflows/test.yml)
 [![npm version](https://img.shields.io/npm/v/lorem-muskum.svg?style=flat-square)](https://www.npmjs.com/package/lorem-muskum)
 [![npm downloads](https://img.shields.io/npm/dm/lorem-muskum.svg?style=flat-square)](https://www.npmjs.com/package/lorem-muskum)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
@@ -302,8 +302,8 @@ Ideas for contributions:
 
 - Star this repo if it made you laugh 😂
 - Share on Twitter with `#LoremMuskum`
-- Report bugs on [GitHub Issues](https://github.com/yourusername/lorem-muskum/issues)
-- Tweet your favorite generations @yourusername
+- Report bugs on [GitHub Issues](https://github.com/lokicik/lorem-muskum/issues)
+- Tweet your favorite generations @lokicikai
 
 ## Roadmap
 

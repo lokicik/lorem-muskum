@@ -48,7 +48,7 @@ Have an idea? Open an issue with:
 
 1. **Fork and Clone**
    ```bash
-   git clone https://github.com/yourusername/lorem-muskum.git
+   git clone https://github.com/lokicik/lorem-muskum.git
    cd lorem-muskum
    ```
 
