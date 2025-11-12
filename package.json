@@ -1,0 +1,43 @@
+{
+  "name": "lorem-muskum",
+  "version": "1.0.0",
+  "description": "Elon Musk-themed placeholder text generator - Lorem Ipsum but with rockets, AI, and Mars",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "lorem-muskum": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "npm run build && node --test dist/generator.test.js",
+    "prepublishOnly": "npm run build"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "lorem-ipsum",
+    "placeholder",
+    "text-generator",
+    "elon-musk",
+    "parody",
+    "dummy-text",
+    "fake-text",
+    "lorem",
+    "ipsum",
+    "musk"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/lorem-muskum.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "typescript": "^5.9.3"
+  }
+}
