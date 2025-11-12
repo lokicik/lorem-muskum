@@ -1,6 +1,6 @@
 {
   "name": "lorem-muskum",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Elon Musk-themed placeholder text generator - Lorem Ipsum but with rockets, AI, and Mars",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
